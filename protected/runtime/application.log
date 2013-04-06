@@ -1,0 +1,312 @@
+2013/04/03 17:36:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/users/
+---
+2013/04/03 17:36:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/users/create.asp
+---
+2013/04/03 17:36:59 [warning] [application] Error al definir unsafe el atributo "id" de "Users".
+in /Library/WebServer/Documents/pages/homem/protected/controllers/UsersController.php (72)
+in /Library/WebServer/Documents/pages/homem/index.php (13)
+2013/04/03 17:36:59 [error] [system.db.CDbCommand] CDbCommand::execute() falló: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '2013-13-13' for column 'birthday' at row 1. La sentencia SQL ejecutada fue: INSERT INTO `users` (`username`, `password`, `email`, `name`, `last_name`, `account`, `age`, `birthday`, `datecreate`, `datemodify`, `note`, `entity_id`, `session`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10, :yp11, :yp12).
+in /Library/WebServer/Documents/pages/homem/protected/controllers/UsersController.php (75)
+in /Library/WebServer/Documents/pages/homem/index.php (13)
+2013/04/03 17:36:59 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '2013-13-13' for column 'birthday' at row 1. The SQL statement executed was: INSERT INTO `users` (`username`, `password`, `email`, `name`, `last_name`, `account`, `age`, `birthday`, `datecreate`, `datemodify`, `note`, `entity_id`, `session`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10, :yp11, :yp12)' in /Library/WebServer/Documents/pages/yii/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/db/ar/CActiveRecord.php(1023): CDbCommand->execute()
+#1 /Library/WebServer/Documents/pages/yii/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 /Library/WebServer/Documents/pages/homem/protected/controllers/UsersController.php(75): CActiveRecord->save()
+#3 /Library/WebServer/Documents/pages/yii/framework/web/actions/CInlineAction.php(49): UsersController->actionCreate()
+#4 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 /Library/WebServer/Documents/pages/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(282): CController->run('create')
+#13 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('users/create')
+#14 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#15 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/pages/homem/users/create.asp
+HTTP_REFERER=http://localhost/pages/homem/users/create.asp
+---
+2013/04/03 17:37:12 [warning] [application] Error al definir unsafe el atributo "id" de "Users".
+in /Library/WebServer/Documents/pages/homem/protected/controllers/UsersController.php (72)
+in /Library/WebServer/Documents/pages/homem/index.php (13)
+2013/04/03 17:37:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/users/2.asp
+---
+2013/04/03 17:37:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/users/index.asp
+---
+2013/04/03 17:37:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/
+---
+2013/04/03 17:37:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "admin"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('admin')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/admin
+---
+2013/04/03 17:37:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/admin
+---
+2013/04/03 17:37:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/
+---
+2013/04/03 17:37:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/site/login.asp
+---
+2013/04/03 17:37:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/site/login.asp
+---
+2013/04/03 17:37:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/site/login.asp
+---
+2013/04/03 17:37:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "update" solicitada.' in /Library/WebServer/Documents/pages/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(270): CController->missingAction('update')
+#1 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(282): CController->run('update')
+#2 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/update')
+#3 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/pages/homem/site/update/2
+---
+2013/04/03 17:37:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/site/update/2
+---
+2013/04/03 17:37:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "user/update"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('user/update')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/user/update/2
+---
+2013/04/03 17:37:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/user/update/2
+---
+2013/04/03 17:37:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/site/login.asp
+---
+2013/04/03 17:37:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/users/update/2
+---
+2013/04/03 17:38:02 [warning] [application] Error al definir unsafe el atributo "id" de "Users".
+in /Library/WebServer/Documents/pages/homem/protected/controllers/UsersController.php (98)
+in /Library/WebServer/Documents/pages/homem/index.php (13)
+2013/04/03 17:38:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/users/2.asp
+---
+2013/04/03 17:38:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/
+---
+2013/04/03 17:38:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/site/login.asp
+---
+2013/04/03 17:38:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/
+---
+2013/04/03 17:38:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/facture.asp
+---
+2013/04/03 17:38:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/facture/admin.asp
+---
+2013/04/04 01:48:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/
+---
+2013/04/04 01:48:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/facture.asp
+---
+2013/04/04 01:48:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/facture/1.asp
+---
+2013/04/05 16:47:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/
+---
+2013/04/05 16:47:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/site/login.asp
+---
+2013/04/05 16:48:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/site/login.asp
+---
+2013/04/05 16:48:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/site/login.asp
+---
+2013/04/05 16:48:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/homem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/homem/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/homem/facture.asp
+---
