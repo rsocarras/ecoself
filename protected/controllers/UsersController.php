@@ -44,19 +44,6 @@ class UsersController extends Controller
 		);
 	}
 
-	public function mailsend($to,$from,$subject,$message){
-        $mail=Yii::app()->Smtpmail;
-        $mail->SetFrom($from, 'From NAme');
-        $mail->Subject    = $subject;
-        $mail->MsgHTML($message);
-        $mail->AddAddress($to, "");
-        if(!$mail->Send()) {
-            echo "Mailer Error: " . $mail->ErrorInfo;
-        }else {
-            echo "Message sent!";
-        }
-    }
-
 	/**
 	 * Displays a particular model.
 	 * @param integer $id the ID of the model to be displayed
@@ -83,10 +70,28 @@ class UsersController extends Controller
 		if(isset($_POST['Users']))
 		{
 			$model->attributes=$_POST['Users'];
+
+			print_r();
+			exit();
 			$model->password=$model->hashPassword($_POST['Users']['password'],$session=$model->generateSalt());
 			$model->session=$session;
-			if($model->save())
+			if($model->save()){
 				$this->redirect(array('view','id'=>$model->id));
+					Yii::import('application.extensions.phpmailer.JPhpMailer');
+					$mail = new JPhpMailer;
+					$mail->IsSMTP();
+					$mail->Host = 'smtp.googlemail.com:465';
+					$mail->SMTPSecure = "ssl";
+					$mail->SMTPAuth = true;
+					$mail->Username = 'rafael@oula.co';
+					$mail->Password = 'Smails0c4rr4s321';
+					$mail->SetFrom('rafael@oula.co', 'Rafael');
+					$mail->Subject = 'Bienvenido a ECOSELF';
+					$mail->AltBody = 'To view the message, please use an HTML compatible email viewer!';
+					$mail->MsgHTML('<h1>JUST A TEST!</h1>');
+					$mail->AddAddress($_POST['Users']['email'], 'Falcon CK');
+					$mail->Send();
+			}
 		}
 
 		$this->render('create',array(

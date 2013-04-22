@@ -37,7 +37,26 @@
 
 	<?php echo $form->textFieldRow($model,'entity_id',array('class'=>'span5')); ?>
 
-	<?php // mailsend('rafael.socarras@gmail.com','rafael@oula.co','hola','Hola como va too'); ?>
+	<?php 
+
+	Yii::import('application.extensions.phpmailer.JPhpMailer');
+		$mail = new JPhpMailer;
+		$mail->IsSMTP();
+		$mail->Host = 'smtp.googlemail.com:465';
+		$mail->SMTPSecure = "ssl";
+		$mail->SMTPAuth = true;
+		$mail->Username = 'rafael@oula.co';
+		$mail->Password = 'Smails0c4rr4s321';
+		$mail->SetFrom('rafael@oula.co', 'Rafael');
+		$mail->Subject = 'Welcome to Hazel Eyes';
+		$mail->AltBody = 'To view the message, please use an HTML compatible email viewer!';
+		$mail->MsgHTML('<h1>JUST A TEST!</h1>');
+		$mail->AddAddress('rafael.socarras@gmail.com', 'Falcon CK');
+		$mail->Send();
+
+
+
+	 ?>
 
 	<div class="form-actions">
 		<?php $this->widget('bootstrap.widgets.TbButton', array(

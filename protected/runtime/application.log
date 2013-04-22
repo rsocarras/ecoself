@@ -1860,3 +1860,60 @@ Stack trace:
 REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
 HTTP_REFERER=http://localhost/pages/ecoself/users/create.asp
 ---
+2013/04/22 01:35:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/users/create.asp
+---
+2013/04/22 01:36:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/users/create.asp
+---
+2013/04/22 01:45:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/users/create.asp
+---
+2013/04/22 01:45:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/users/create.asp
+---
+2013/04/22 01:47:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/users/create.asp
+---
+2013/04/22 01:51:10 [warning] [application] Error al definir unsafe el atributo "id" de "Users".
+in /Library/WebServer/Documents/pages/ecoself/protected/controllers/UsersController.php (72)
+in /Library/WebServer/Documents/pages/ecoself/index.php (13)
+2013/04/22 01:52:36 [warning] [application] Error al definir unsafe el atributo "id" de "Users".
+in /Library/WebServer/Documents/pages/ecoself/protected/controllers/UsersController.php (72)
+in /Library/WebServer/Documents/pages/ecoself/index.php (13)
+2013/04/22 01:52:43 [warning] [application] Error al definir unsafe el atributo "id" de "Users".
+in /Library/WebServer/Documents/pages/ecoself/protected/controllers/UsersController.php (72)
+in /Library/WebServer/Documents/pages/ecoself/index.php (13)
+2013/04/22 01:53:23 [warning] [application] Error al definir unsafe el atributo "id" de "Users".
+in /Library/WebServer/Documents/pages/ecoself/protected/controllers/UsersController.php (72)
+in /Library/WebServer/Documents/pages/ecoself/index.php (13)
