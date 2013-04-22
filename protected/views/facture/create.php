@@ -1,7 +1,7 @@
 <?php
 $this->breadcrumbs=array(
 	'Factures'=>array('index'),
-	'Create',
+	'Añadir Nueva Factura',
 );
 
 $this->menu=array(
@@ -10,9 +10,6 @@ $this->menu=array(
 );
 ?>
 
-<blockquote>
-  <p>Create Facture</p>
-  <small></small>
-</blockquote>
+
 
 <?php echo $this->renderPartial('_form', array('model'=>$model)); ?>

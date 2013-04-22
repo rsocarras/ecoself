@@ -400,3 +400,1463 @@ Stack trace:
 REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
 HTTP_REFERER=http://localhost/pages/ecoself/
 ---
+2013/04/15 19:22:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/
+---
+2013/04/15 19:22:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/site/login.asp
+---
+2013/04/15 19:22:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts.asp
+---
+2013/04/15 19:22:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture.asp
+---
+2013/04/15 19:22:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/site/contact.asp
+---
+2013/04/15 19:22:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts.asp
+---
+2013/04/15 19:23:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/15 19:24:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture.asp
+---
+2013/04/15 19:24:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/2.asp
+---
+2013/04/15 19:28:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts.asp
+---
+2013/04/15 19:28:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture.asp
+---
+2013/04/15 19:28:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts.asp
+---
+2013/04/15 19:29:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/17 20:54:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/
+---
+2013/04/17 20:54:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/site/login.asp
+---
+2013/04/17 20:54:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture.asp
+---
+2013/04/17 20:54:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts.asp
+---
+2013/04/17 20:54:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture.asp
+---
+2013/04/20 23:51:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/
+---
+2013/04/21 11:54:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/
+---
+2013/04/21 11:54:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/site/login.asp
+---
+2013/04/21 11:54:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts.asp
+---
+2013/04/21 11:54:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 11:58:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/index.asp
+---
+2013/04/21 11:58:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 11:59:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/
+---
+2013/04/21 11:59:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts.asp
+---
+2013/04/21 11:59:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:06:15 [error] [php] Undefined variable: dataProvider (/Library/WebServer/Documents/pages/ecoself/protected/views/accounts/view.php:40)
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(869): AccountsController->renderFile()
+#1 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(782): AccountsController->renderPartial()
+#2 /Library/WebServer/Documents/pages/ecoself/protected/controllers/AccountsController.php(56): AccountsController->render()
+#3 unknown(0): AccountsController->actionView()
+#4 /Library/WebServer/Documents/pages/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#5 /Library/WebServer/Documents/pages/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#7 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilterChain.php(133): AccountsController->runAction()
+#8 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#9 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#10 /Library/WebServer/Documents/pages/yii/framework/web/filters/CInlineFilter.php(58): AccountsController->filterAccessControl()
+#11 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#12 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(291): CFilterChain->run()
+#13 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(265): AccountsController->runActionWithFilters()
+#14 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(282): AccountsController->run()
+#15 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#16 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#17 /Library/WebServer/Documents/pages/ecoself/index.php(13): CWebApplication->run()
+REQUEST_URI=/pages/ecoself/accounts/2.asp
+in /Library/WebServer/Documents/pages/ecoself/protected/views/accounts/view.php (40)
+in /Library/WebServer/Documents/pages/ecoself/protected/controllers/AccountsController.php (56)
+in /Library/WebServer/Documents/pages/ecoself/index.php (13)
+2013/04/21 12:06:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:12:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:13:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:13:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:13:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:13:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in /Library/WebServer/Documents/pages/ecoself/protected/controllers/AccountsController.php:173
+Stack trace:
+#0 /Library/WebServer/Documents/pages/ecoself/protected/controllers/AccountsController.php(66): AccountsController->loadModel('1')
+#1 [internal function]: AccountsController->actionView('1')
+#2 /Library/WebServer/Documents/pages/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(AccountsController), Array)
+#3 /Library/WebServer/Documents/pages/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(AccountsController), Object(ReflectionMethod), Array)
+#4 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 /Library/WebServer/Documents/pages/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#13 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('accounts/view')
+#14 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#15 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/pages/ecoself/accounts/1.asp
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:13:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/1.asp
+---
+2013/04/21 12:14:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:14:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:14:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/2.asp
+---
+2013/04/21 12:15:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/1.asp
+---
+2013/04/21 12:15:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/index.asp
+---
+2013/04/21 12:15:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/2.asp
+---
+2013/04/21 12:15:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/2.asp
+---
+2013/04/21 12:15:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/index.asp
+---
+2013/04/21 12:16:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts.asp
+---
+2013/04/21 12:16:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:17:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:20:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:20:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:20:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:21:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:21:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:25:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture.asp
+---
+2013/04/21 12:25:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 12:25:44 [error] [system.db.CDbCommand] CDbCommand::execute() falló: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`homem`.`facture`, CONSTRAINT `fk_facture_entity1` FOREIGN KEY (`entity_id`) REFERENCES `entity` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION). La sentencia SQL ejecutada fue: INSERT INTO `facture` (`facture_num`, `accounts_id`, `total`, `tax`, `estate`, `t_pay_date`, `discount`, `consumo`, `tipo_medida`, `datecreate`, `datemodify`, `users_id`, `entity_id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10, :yp11, :yp12).
+in /Library/WebServer/Documents/pages/ecoself/protected/controllers/FactureController.php (72)
+in /Library/WebServer/Documents/pages/ecoself/index.php (13)
+2013/04/21 12:25:44 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`homem`.`facture`, CONSTRAINT `fk_facture_entity1` FOREIGN KEY (`entity_id`) REFERENCES `entity` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION). The SQL statement executed was: INSERT INTO `facture` (`facture_num`, `accounts_id`, `total`, `tax`, `estate`, `t_pay_date`, `discount`, `consumo`, `tipo_medida`, `datecreate`, `datemodify`, `users_id`, `entity_id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10, :yp11, :yp12)' in /Library/WebServer/Documents/pages/yii/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/db/ar/CActiveRecord.php(1023): CDbCommand->execute()
+#1 /Library/WebServer/Documents/pages/yii/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 /Library/WebServer/Documents/pages/ecoself/protected/controllers/FactureController.php(72): CActiveRecord->save()
+#3 /Library/WebServer/Documents/pages/yii/framework/web/actions/CInlineAction.php(49): FactureController->actionCreate()
+#4 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 /Library/WebServer/Documents/pages/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(282): CController->run('create')
+#13 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('facture/create')
+#14 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#15 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/pages/ecoself/facture/create.asp
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 12:27:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 12:28:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 12:28:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/5.asp
+---
+2013/04/21 12:28:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/update/5.asp
+---
+2013/04/21 12:28:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/5.asp
+---
+2013/04/21 12:28:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts.asp
+---
+2013/04/21 12:28:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/3.asp
+---
+2013/04/21 12:28:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts.asp
+---
+2013/04/21 12:28:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:29:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/1.asp
+---
+2013/04/21 12:39:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 12:40:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/
+---
+2013/04/21 12:41:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/
+---
+2013/04/21 12:43:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture.asp
+---
+2013/04/21 12:43:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 12:44:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 12:50:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 13:07:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/
+---
+2013/04/21 13:07:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts.asp
+---
+2013/04/21 13:07:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/create.asp
+---
+2013/04/21 13:09:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/index.asp
+---
+2013/04/21 13:09:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/2.asp
+---
+2013/04/21 13:09:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/1.asp
+---
+2013/04/21 13:09:21 [error] [exception.CException] exception 'CException' with message 'Propiedad "Facture"."input_date" no se encuentra definida.' in /Library/WebServer/Documents/pages/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/db/ar/CActiveRecord.php(143): CComponent->__get('input_date')
+#1 /Library/WebServer/Documents/pages/ecoself/protected/views/facture/_form.php(41): CActiveRecord->__get('input_date')
+#2 /Library/WebServer/Documents/pages/yii/framework/web/CBaseController.php(126): require('/Library/WebSer...')
+#3 /Library/WebServer/Documents/pages/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Library/WebSer...', Array, true)
+#4 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(869): CBaseController->renderFile('/Library/WebSer...', Array, true)
+#5 /Library/WebServer/Documents/pages/ecoself/protected/views/facture/create.php(18): CController->renderPartial('_form', Array)
+#6 /Library/WebServer/Documents/pages/yii/framework/web/CBaseController.php(126): require('/Library/WebSer...')
+#7 /Library/WebServer/Documents/pages/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Library/WebSer...', Array, true)
+#8 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(869): CBaseController->renderFile('/Library/WebSer...', Array, true)
+#9 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(782): CController->renderPartial('create', Array, true)
+#10 /Library/WebServer/Documents/pages/ecoself/protected/controllers/FactureController.php(78): CController->render('create', Array)
+#11 /Library/WebServer/Documents/pages/yii/framework/web/actions/CInlineAction.php(49): FactureController->actionCreate()
+#12 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#13 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#14 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#15 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#16 /Library/WebServer/Documents/pages/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#17 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#18 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(291): CFilterChain->run()
+#19 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(282): CController->run('create')
+#21 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('facture/create')
+#22 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#23 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/pages/ecoself/facture/create.asp
+HTTP_REFERER=http://localhost/pages/ecoself/facture/1.asp
+---
+2013/04/21 13:09:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 13:10:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 13:11:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 13:11:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 13:18:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 13:18:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 13:18:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 15:51:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 15:51:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 15:52:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 15:57:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 15:57:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 15:58:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 15:58:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 16:03:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 16:04:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 16:16:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 16:16:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 16:17:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 16:18:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 16:19:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 16:19:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 16:19:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 16:20:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:31:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:37:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/site/login.asp
+---
+2013/04/21 23:37:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:38:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:38:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:41:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:43:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:43:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:43:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:44:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:44:35 [warning] [application] Error al definir unsafe el atributo "t_pay_date" de "Facture".
+in /Library/WebServer/Documents/pages/ecoself/protected/controllers/FactureController.php (71)
+in /Library/WebServer/Documents/pages/ecoself/index.php (13)
+2013/04/21 23:44:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/6.asp
+---
+2013/04/21 23:45:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:45:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:47:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:47:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:48:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:49:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:49:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:50:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:52:01 [error] [php] include(ii.php): failed to open stream: No such file or directory (/Library/WebServer/Documents/pages/yii/framework/YiiBase.php:421)
+Stack trace:
+#0 /Library/WebServer/Documents/pages/ecoself/protected/models/Facture.php(94): spl_autoload_call()
+#1 /Library/WebServer/Documents/pages/yii/framework/db/ar/CActiveRecord.php(589): Facture->attributeLabels()
+#2 /Library/WebServer/Documents/pages/yii/framework/web/helpers/CHtml.php(1213): Facture->getAttributeLabel()
+#3 /Library/WebServer/Documents/pages/yii/framework/web/helpers/CHtml.php(1238): activeLabel()
+#4 /Library/WebServer/Documents/pages/yii/framework/web/widgets/CActiveForm.php(562): activeLabelEx()
+#5 /Library/WebServer/Documents/pages/ecoself/protected/extensions/bootstrap/widgets/input/TbInput.php(253): TbActiveForm->labelEx()
+#6 /Library/WebServer/Documents/pages/ecoself/protected/extensions/bootstrap/widgets/input/TbInputHorizontal.php(39): TbInputHorizontal->getLabel()
+#7 /Library/WebServer/Documents/pages/ecoself/protected/extensions/bootstrap/widgets/input/TbInputHorizontal.php(178): TbInputHorizontal->getLabel()
+#8 /Library/WebServer/Documents/pages/ecoself/protected/extensions/bootstrap/widgets/input/TbInput.php(230): TbInputHorizontal->textField()
+#9 /Library/WebServer/Documents/pages/ecoself/protected/extensions/bootstrap/widgets/input/TbInputHorizontal.php(24): TbInputHorizontal->run()
+#10 /Library/WebServer/Documents/pages/yii/framework/web/CBaseController.php(173): TbInputHorizontal->run()
+#11 /Library/WebServer/Documents/pages/ecoself/protected/extensions/bootstrap/widgets/TbActiveForm.php(497): FactureController->widget()
+#12 /Library/WebServer/Documents/pages/ecoself/protected/extensions/bootstrap/widgets/TbActiveForm.php(186): TbActiveForm->inputRow()
+#13 /Library/WebServer/Documents/pages/ecoself/protected/views/facture/_form.php(25): TbActiveForm->textFieldRow()
+#14 /Library/WebServer/Documents/pages/yii/framework/web/CBaseController.php(126): require()
+#15 /Library/WebServer/Documents/pages/yii/framework/web/CBaseController.php(95): FactureController->renderInternal()
+#16 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(869): FactureController->renderFile()
+#17 /Library/WebServer/Documents/pages/ecoself/protected/views/facture/create.php(15): FactureController->renderPartial()
+#18 /Library/WebServer/Documents/pages/yii/framework/web/CBaseController.php(126): require()
+#19 /Library/WebServer/Documents/pages/yii/framework/web/CBaseController.php(95): FactureController->renderInternal()
+#20 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(869): FactureController->renderFile()
+#21 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(782): FactureController->renderPartial()
+#22 /Library/WebServer/Documents/pages/ecoself/protected/controllers/FactureController.php(78): FactureController->render()
+#23 /Library/WebServer/Documents/pages/yii/framework/web/actions/CInlineAction.php(49): FactureController->actionCreate()
+#24 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#25 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilterChain.php(133): FactureController->runAction()
+#26 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#27 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#28 /Library/WebServer/Documents/pages/yii/framework/web/filters/CInlineFilter.php(58): FactureController->filterAccessControl()
+#29 /Library/WebServer/Documents/pages/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#30 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(291): CFilterChain->run()
+#31 /Library/WebServer/Documents/pages/yii/framework/web/CController.php(265): FactureController->runActionWithFilters()
+#32 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(282): FactureController->run()
+#33 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#34 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#35 /Library/WebServer/Documents/pages/ecoself/index.php(13): CWebApplication->run()
+REQUEST_URI=/pages/ecoself/facture/create.asp
+in /Library/WebServer/Documents/pages/ecoself/protected/models/Facture.php (94)
+in /Library/WebServer/Documents/pages/ecoself/protected/extensions/bootstrap/widgets/input/TbInput.php (253)
+in /Library/WebServer/Documents/pages/ecoself/protected/extensions/bootstrap/widgets/input/TbInputHorizontal.php (39)
+2013/04/21 23:52:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:52:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:53:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:53:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:54:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:54:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:55:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:55:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:57:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:57:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/21 23:57:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/22 00:03:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/22 00:03:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/22 00:08:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/facture/create.asp
+---
+2013/04/22 00:10:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/
+---
+2013/04/22 00:10:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/site/page.asp?view=about
+---
+2013/04/22 00:10:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/site/contact.asp
+---
+2013/04/22 00:10:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts.asp
+---
+2013/04/22 00:10:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/create.asp
+---
+2013/04/22 00:20:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/create.asp
+---
+2013/04/22 00:21:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/create.asp
+---
+2013/04/22 00:21:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/create.asp
+---
+2013/04/22 00:22:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/accounts/create.asp
+---
+2013/04/22 00:23:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/entity.asp
+---
+2013/04/22 00:23:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/entity.asp
+---
+2013/04/22 00:23:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/users/2.asp
+---
+2013/04/22 01:26:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/users/create.asp
+---
+2013/04/22 01:26:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "assets/lib/bootstrap/less/mixins.less"' in /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Library/WebServer/Documents/pages/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 /Library/WebServer/Documents/pages/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Library/WebServer/Documents/pages/ecoself/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/ecoself/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/pages/ecoself/users/create.asp
+---

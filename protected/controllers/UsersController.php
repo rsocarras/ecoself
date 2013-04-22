@@ -44,6 +44,19 @@ class UsersController extends Controller
 		);
 	}
 
+	public function mailsend($to,$from,$subject,$message){
+        $mail=Yii::app()->Smtpmail;
+        $mail->SetFrom($from, 'From NAme');
+        $mail->Subject    = $subject;
+        $mail->MsgHTML($message);
+        $mail->AddAddress($to, "");
+        if(!$mail->Send()) {
+            echo "Mailer Error: " . $mail->ErrorInfo;
+        }else {
+            echo "Message sent!";
+        }
+    }
+
 	/**
 	 * Displays a particular model.
 	 * @param integer $id the ID of the model to be displayed

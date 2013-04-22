@@ -37,6 +37,8 @@
 
 	<?php echo $form->textFieldRow($model,'entity_id',array('class'=>'span5')); ?>
 
+	<?php // mailsend('rafael.socarras@gmail.com','rafael@oula.co','hola','Hola como va too'); ?>
+
 	<div class="form-actions">
 		<?php $this->widget('bootstrap.widgets.TbButton', array(
 			'buttonType'=>'submit',

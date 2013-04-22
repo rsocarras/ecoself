@@ -1,4 +1,4 @@
-<div class="span3">
+<div class="span8">
 <div class="well well-small">
 
 	<?php /*<b> echo CHtml::encode($data->getAttributeLabel('id')); ?>:</b>
@@ -10,12 +10,8 @@
 	echo "<b>".CHtml::encode($data->getAttributeLabel('facture_num')).":</b>"; 
 	echo CHtml::link(CHtml::encode($data->facture_num),
 		array('/facture/view','id'=>$data->id),
-		array('rel'=>'tooltip','title'=>'Datos de la Factura'))."<br />";
+		array('rel'=>'tooltip','title'=>'Datos de la Factura'))." ";
 
-	echo "<b>".CHtml::encode($data->getAttributeLabel('accounts_id')); 
-	echo ":</b>";
-	echo CHtml::encode($data->accounts->account_num); 
-	echo "<br />";
 	
 	echo "<b>".CHtml::encode($data->getAttributeLabel('consumo')).": </b>"; 
 	echo CHtml::encode($data->consumo);
@@ -28,9 +24,16 @@
 		}else{
 		echo " <span class='label label-success'>Success</span>";		
 		}
-	echo "<br/>";
+	echo " ";
 	?>
 	
+
+
+
+	<?php /*
+	<b><?php echo CHtml::encode($data->getAttributeLabel('discount')); ?>:</b>
+	<?php echo CHtml::encode($data->discount); ?>
+	<br />
 
 
 	<b><?php echo CHtml::encode($data->getAttributeLabel('total')); ?>:</b>
@@ -44,13 +47,6 @@
 
 	?>
 	<br />
-
-	<?php /*
-	<b><?php echo CHtml::encode($data->getAttributeLabel('discount')); ?>:</b>
-	<?php echo CHtml::encode($data->discount); ?>
-	<br />
-
-
 
 	<b><?php echo CHtml::encode($data->getAttributeLabel('tax')); ?>:</b>
 	<?php echo CHtml::encode($data->tax); ?>

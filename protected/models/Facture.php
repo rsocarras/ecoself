@@ -53,7 +53,7 @@ class Facture extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('facture_num, accounts_id, total, t_pay_date, discount, datecreate, users_id, entity_id', 'required'),
+			array('facture_num, consumo,accounts_id, discount, datecreate, users_id, entity_id', 'required'),
 			array('accounts_id, estate, users_id, entity_id', 'numerical', 'integerOnly'=>true),
 			array('total, tax, consumo, discount', 'numerical'),
 			array('facture_num, tipo_medida', 'length', 'max'=>45),
@@ -86,12 +86,12 @@ class Facture extends CActiveRecord
 	{
 		return array(
 			'id' => 'ID',
-			'facture_num' => 'Facture Num',
-			'accounts_id' => 'Accounts',
-			'estate' => 'Estate',
-			'total' => 'Total',
+			'facture_num' => Yii::t("lang_es","facture num"),
+			'accounts_id' => Yii::t("lang_es","Accounts"),
+			'estate' => Yii::t("lang_es","Status"),
+			'total' => Yii::t("lang_es","Total Paid"),
 			'tax' => 'Tax',
-			't_pay_date' => 'T Pay Date',
+			't_pay_date' => Yii::t("lang_es","Time Pay Date"),
 			'consumo' => 'Consumo',
 			'tipo_medida' => 'Tipo Medida',
 			'discount' => 'Discount',

@@ -1,9 +1,12 @@
 <?php $form=$this->beginWidget('bootstrap.widgets.TbActiveForm',array(
 	'id'=>'accounts-form',
 	'enableAjaxValidation'=>true,
+	'type'=>'horizontal',
+	'enableClientValidation'=>true,
+	'clientOptions'=>array(
+						'validateOnSubmit'=>true,
+					),
 )); ?>
-
-	<p class="help-block">Fields with <span class="required">*</span> are required.</p>
 
 	<?php echo $form->errorSummary($model); ?>
 

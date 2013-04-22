@@ -50,8 +50,21 @@ class AccountsController extends Controller
 	 */
 	public function actionView($id)
 	{
+		
+
+
+	$dataProvider =new CActiveDataProvider('Facture',array(
+    		'criteria'=>array(
+        				'condition'=>'accounts_id='.$id.'',
+    					),
+    		'pagination'=>array(
+        				'pageSize'=>20,
+    					),
+			));
+
 		$this->render('view',array(
 			'model'=>$this->loadModel($id),
+			'dataProvider'=>$dataProvider,
 		));
 	}
 

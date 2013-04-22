@@ -33,3 +33,9 @@ $this->menu=array(
 	//	'entity_id',
 	),
 )); ?>
+
+<?php 
+	$this->widget('bootstrap.widgets.TbListView',array(
+	'dataProvider'=>$dataProvider,
+	'itemView'=>'//facture/_viewA',
+)); ?>

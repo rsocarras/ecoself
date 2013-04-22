@@ -41,6 +41,17 @@ return array(
 
 	// application components
 	'components'=>array(
+		 'Smtpmail'=>array(
+            'class'=>'application.extensions.smtpmail.PHPMailer',
+            'Host'=>"smtp.gmail.com",
+            'Username'=>'rafael@oula.co',
+            'Password'=>'emails0c4rr4s321',
+            'Mailer'=>'smtp',
+            'Port'=>465,
+            'SMTPAuth'=>true, 
+        ),
+
+
 		'bootstrap'=>array(
             'class'=>'bootstrap.components.Bootstrap',
         ),
